@@ -1,3 +1,3 @@
-call {
+{
   sharedLib 'something'
 }
