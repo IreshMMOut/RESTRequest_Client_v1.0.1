@@ -1,0 +1,3 @@
+call {
+  sharedLib 'something'
+}
